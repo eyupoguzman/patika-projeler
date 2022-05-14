@@ -1,6 +1,4 @@
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
-
-Root 7'dir. Solunda kendinden küçük sağında kendinden büyük sayılar olur.
+Dizinin rootu 7'dir. Solunda kendinden küçük sağında kendinden büyük sayılar olur.
 ```
 
               7
