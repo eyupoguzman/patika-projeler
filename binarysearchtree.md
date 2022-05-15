@@ -1,6 +1,5 @@
 Dizinin rootu 7'dir. Solunda kendinden küçük sağında kendinden büyük sayılar olur.
 ```
-
               7
               
           3       8
